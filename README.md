@@ -70,3 +70,6 @@ A professional, reusable UI component library built with **React**, **TypeScript
 
    ![sidebar](./public/screenshots/sidebar_open.png)
    ![alt text](./public/screenshots/sidebar_submenus.png)
+
+**Task:**
+https://develops.notion.site/Front-end-JS-engineer-test-assessment-the-React-component-library-21b0fe54b07b80aa9607c6fc88aa90e0?pvs=143
